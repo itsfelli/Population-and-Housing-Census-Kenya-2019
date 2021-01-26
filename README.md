@@ -1,2 +1,2 @@
 # Population-and-Housing-Census-Kenya-2019
-This project is an exploration of Kenya population and housing Census Data of 2019
+The Kenyan government has carried out a population census every 10 years since the year 1948. The latest census was done in 2019 and it recorded a population of 47.5 million. This project is an exploration of the Kenyan population characteristis. This is achieved by plotting visualization of some of the datasets. The population census data of 2019 is composed of several data sets and this project utilizes just a few because of time limitation. A lot more can be gleaned by exploring more of the datasets.
